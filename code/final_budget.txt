@@ -1,0 +1,4 @@
+p1-lr005-s2400     [3.93, 3.9, 3.93] mean 3.92s
+final-9600         [11.59, 11.49, 11.55] mean 11.54s
+ratio to baseline: 2.94x  (limit 5x)
+checkpoint size: 20.1 MiB  (limit 64 MiB)
